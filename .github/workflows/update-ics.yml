@@ -1,0 +1,43 @@
+name: Update TV Blatzheim iCal Feed
+
+on:
+  schedule:
+    # Jeden Morgen um 05:00 UTC (06:00 Uhr MEZ / 07:00 Uhr MESZ)
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'generate_ics.py'
+      - '.github/workflows/update-ics.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-ics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate .ics files from basketball-bund.net API
+        run: python3 generate_ics.py
+
+      - name: Commit and push updated calendar files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tv_blatzheim_869_alle_spiele.ics tv_blatzheim_869_heimspiele.ics locations_cache.json
+          if git diff --cached --quiet; then
+            echo "Keine Aenderungen am Spielplan."
+          else
+            git commit -m "chore: update TV Blatzheim iCal feed"
+            git push
+          fi
