@@ -1,0 +1,836 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TV Blatzheim Basketball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TV Blatzheim - Heimspiele
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dbb-match-2847295@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260919T143000
+DTEND;TZID=Europe/Berlin:20260919T163000
+SUMMARY:[U12] TV Blatzheim vs. DTV Basketball Köln 2 (93:42)
+DESCRIPTION:Liga: Bezirksliga 2 VR -weibliche U12- (BeL2VRU12W)\nSpieltag: 1 | Spiel-Nr.: 4\nLink: https://www.basketball-bund.net/static/#/spiel/2847295
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847412@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260919T163000
+DTEND;TZID=Europe/Berlin:20260919T183000
+SUMMARY:[U14] TV Blatzheim vs. DJK SW Köln (82:28)
+DESCRIPTION:Liga: Bezirksliga 1 VR -weibliche U14- (BeL1VRU14W)\nSpieltag: 1 | Spiel-Nr.: 1\nLink: https://www.basketball-bund.net/static/#/spiel/2847412
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852218@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260920T123000
+DTEND;TZID=Europe/Berlin:20260920T143000
+SUMMARY:[U18] TV Blatzheim vs. SG Erftstadt (54:74)
+DESCRIPTION:Liga: Erftliga -männlich U18- (KL-U18M)\nSpieltag: 1 | Spiel-Nr.: 3\nLink: https://www.basketball-bund.net/static/#/spiel/2852218
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885100@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260920T143000
+DTEND;TZID=Europe/Berlin:20260920T163000
+SUMMARY:[U10] TV Blatzheim vs. Future Sports Meckenheim (36:65)
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 1 | Spiel-Nr.: 1\nLink: https://www.basketball-bund.net/static/#/spiel/2885100
+LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855764@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260920T163000
+DTEND;TZID=Europe/Berlin:20260920T183000
+SUMMARY:[Senioren] TV Blatzheim vs. Sieglarer TV (54:57)
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 1 | Spiel-Nr.: 1\nLink: https://www.basketball-bund.net/static/#/spiel/2855764
+LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854194@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260920T183000
+DTEND;TZID=Europe/Berlin:20260920T203000
+SUMMARY:[Senioren] TV Blatzheim vs. SG Bergische Löwen 2 (32:111)
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 1 | Spiel-Nr.: 1\nLink: https://www.basketball-bund.net/static/#/spiel/2854194
+LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895597@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260926T130000
+DTEND;TZID=Europe/Berlin:20260926T150000
+SUMMARY:[U14] TV Blatzheim vs. TuS Zülpich (56:82)
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 2 | Spiel-Nr.: 10\nLink: https://www.basketball-bund.net/static/#/spiel/2895597
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847857@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260926T150000
+DTEND;TZID=Europe/Berlin:20260926T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. Pulheimer SC (25:104)
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 2 | Spiel-Nr.: 8\nLink: https://www.basketball-bund.net/static/#/spiel/2847857
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847531@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260926T170000
+DTEND;TZID=Europe/Berlin:20260926T190000
+SUMMARY:[U16] TV  Blatzheim vs. Pulheimer SC (27:28)
+DESCRIPTION:Liga: Bezirksliga 1 VR -weibliche U16- (BeL1VRU16W)\nSpieltag: 2 | Spiel-Nr.: 5\nLink: https://www.basketball-bund.net/static/#/spiel/2847531
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884312@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20260927T113000
+DTEND;TZID=Europe/Berlin:20260927T133000
+SUMMARY:[U12] TV Blatzheim vs. Hürther BC 2 (106:38)
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 2 | Spiel-Nr.: 11\nLink: https://www.basketball-bund.net/static/#/spiel/2884312
+LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847420@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261003T130000
+DTEND;TZID=Europe/Berlin:20261003T150000
+SUMMARY:[U14] TV Blatzheim vs. Hürther BC 2 (86:39)
+DESCRIPTION:Liga: Bezirksliga 1 VR -weibliche U14- (BeL1VRU14W)\nSpieltag: 3 | Spiel-Nr.: 9\nLink: https://www.basketball-bund.net/static/#/spiel/2847420
+LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847600@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261003T150000
+DTEND;TZID=Europe/Berlin:20261003T170000
+SUMMARY:[U18] TV Blatzheim (a.K.) vs. TuS Wegberg (47:19)
+DESCRIPTION:Liga: Bezirksliga 2 VR -weibliche U18- (BeL2VRU18W)\nSpieltag: 3 | Spiel-Nr.: 9\nLink: https://www.basketball-bund.net/static/#/spiel/2847600
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847304@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261003T150000
+DTEND;TZID=Europe/Berlin:20261003T170000
+SUMMARY:[U12] TV Blatzheim vs. RheinStars Köln 3 (54:30)
+DESCRIPTION:Liga: Bezirksliga 2 VR -weibliche U12- (BeL2VRU12W)\nSpieltag: 3 | Spiel-Nr.: 12\nLink: https://www.basketball-bund.net/static/#/spiel/2847304
+LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885110@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261004T100000
+DTEND;TZID=Europe/Berlin:20261004T120000
+SUMMARY:[U10] TV Blatzheim vs. Bonner SV Roleber (40:70)
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 3 | Spiel-Nr.: 11\nLink: https://www.basketball-bund.net/static/#/spiel/2885110
+LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884318@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261004T120000
+DTEND;TZID=Europe/Berlin:20261004T140000
+SUMMARY:[U12] TV Blatzheim vs. Telekom Bonn 3 (107:48)
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 3 | Spiel-Nr.: 17\nLink: https://www.basketball-bund.net/static/#/spiel/2884318
+LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852228@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261004T140000
+DTEND;TZID=Europe/Berlin:20261004T160000
+SUMMARY:[U18] TV Blatzheim vs. SSK Kerpen (AK) (51:45)
+DESCRIPTION:Liga: Erftliga -männlich U18- (KL-U18M)\nSpieltag: 3 | Spiel-Nr.: 13\nLink: https://www.basketball-bund.net/static/#/spiel/2852228
+LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855788@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261004T163000
+DTEND;TZID=Europe/Berlin:20261004T183000
+SUMMARY:[Senioren] TV Blatzheim vs. Dragons Rhöndorf 3 (70:92)
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 3 | Spiel-Nr.: 13\nLink: https://www.basketball-bund.net/static/#/spiel/2855788
+LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Straße\, 50171 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847867@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261011T130000
+DTEND;TZID=Europe/Berlin:20261011T150000
+SUMMARY:[U10] TV Blatzheim 2 vs. BTV Basketball Brühl (9:101)
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 4 | Spiel-Nr.: 18\nLink: https://www.basketball-bund.net/static/#/spiel/2847867
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847776@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+DTEND;TZID=Europe/Berlin:20261011T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. TuS BW Königsdorf 4 (87:43)
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 4 | Spiel-Nr.: 17\nLink: https://www.basketball-bund.net/static/#/spiel/2847776
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847313@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261107T110000
+DTEND;TZID=Europe/Berlin:20261107T130000
+SUMMARY:[U12] TV Blatzheim vs. Hürther BC 2
+DESCRIPTION:Liga: Bezirksliga 2 VR -weibliche U12- (BeL2VRU12W)\nSpieltag: 5 | Spiel-Nr.: 20\nLink: https://www.basketball-bund.net/static/#/spiel/2847313
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847428@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261107T130000
+DTEND;TZID=Europe/Berlin:20261107T150000
+SUMMARY:[U14] TV Blatzheim vs. DJK Löwe Köln
+DESCRIPTION:Liga: Bezirksliga 1 VR -weibliche U14- (BeL1VRU14W)\nSpieltag: 5 | Spiel-Nr.: 17\nLink: https://www.basketball-bund.net/static/#/spiel/2847428
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885120@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261108T100000
+DTEND;TZID=Europe/Berlin:20261108T120000
+SUMMARY:[U10] TV Blatzheim vs. Brander Turnverein 1883 Aachen e.V.
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 5 | Spiel-Nr.: 21\nLink: https://www.basketball-bund.net/static/#/spiel/2885120
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884330@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261108T120000
+DTEND;TZID=Europe/Berlin:20261108T140000
+SUMMARY:[U12] TV Blatzheim vs. BC Pesch
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 5 | Spiel-Nr.: 29\nLink: https://www.basketball-bund.net/static/#/spiel/2884330
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855812@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261108T160000
+DTEND;TZID=Europe/Berlin:20261108T180000
+SUMMARY:[Senioren] TV Blatzheim vs. TuS Zülpich
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 5 | Spiel-Nr.: 25\nLink: https://www.basketball-bund.net/static/#/spiel/2855812
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854218@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261108T180000
+DTEND;TZID=Europe/Berlin:20261108T200000
+SUMMARY:[Senioren] TV Blatzheim vs. TuS Zülpich
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 5 | Spiel-Nr.: 25\nLink: https://www.basketball-bund.net/static/#/spiel/2854218
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847432@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261114T130000
+DTEND;TZID=Europe/Berlin:20261114T150000
+SUMMARY:[U14] TV Blatzheim vs. DJK Köln-Nord a.K.
+DESCRIPTION:Liga: Bezirksliga 1 VR -weibliche U14- (BeL1VRU14W)\nSpieltag: 6 | Spiel-Nr.: 21\nLink: https://www.basketball-bund.net/static/#/spiel/2847432
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895617@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261114T130000
+DTEND;TZID=Europe/Berlin:20261114T150000
+SUMMARY:[U14] TV Blatzheim vs. Telekom Bonn 3
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 6 | Spiel-Nr.: 30\nLink: https://www.basketball-bund.net/static/#/spiel/2895617
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847612@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+DTEND;TZID=Europe/Berlin:20261114T170000
+SUMMARY:[U18] TV Blatzheim (a.K.) vs. DJK Frankenberg Aachen
+DESCRIPTION:Liga: Bezirksliga 2 VR -weibliche U18- (BeL2VRU18W)\nSpieltag: 6 | Spiel-Nr.: 21\nLink: https://www.basketball-bund.net/static/#/spiel/2847612
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852243@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261115T133000
+DTEND;TZID=Europe/Berlin:20261115T153000
+SUMMARY:[U18] TV Blatzheim vs. Kahramanlar-Die Brühler Helden
+DESCRIPTION:Liga: Erftliga -männlich U18- (KL-U18M)\nSpieltag: 6 | Spiel-Nr.: 28\nLink: https://www.basketball-bund.net/static/#/spiel/2852243
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852018@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261115T160000
+DTEND;TZID=Europe/Berlin:20261115T180000
+SUMMARY:[U16] TV Blatzheim vs. BTV Basketball Brühl 2
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 6 | Spiel-Nr.: 33\nLink: https://www.basketball-bund.net/static/#/spiel/2852018
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847786@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261115T200000
+DTEND;TZID=Europe/Berlin:20261115T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. BTV Basketball Brühl 4
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 6 | Spiel-Nr.: 27\nLink: https://www.basketball-bund.net/static/#/spiel/2847786
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847791@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261118T200000
+DTEND;TZID=Europe/Berlin:20261118T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. BTV Basketball Brühl 3
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 7 | Spiel-Nr.: 32\nLink: https://www.basketball-bund.net/static/#/spiel/2847791
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2851994@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T130000
+SUMMARY:[U16] TV Blatzheim vs. SG Erftstadt
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 2 | Spiel-Nr.: 9\nLink: https://www.basketball-bund.net/static/#/spiel/2851994
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885130@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261121T130000
+DTEND;TZID=Europe/Berlin:20261121T150000
+SUMMARY:[U10] TV Blatzheim vs. Dragons Rhöndorf 2
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 7 | Spiel-Nr.: 31\nLink: https://www.basketball-bund.net/static/#/spiel/2885130
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847882@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261121T150000
+DTEND;TZID=Europe/Berlin:20261121T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. Hürther BC 2
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 7 | Spiel-Nr.: 33\nLink: https://www.basketball-bund.net/static/#/spiel/2847882
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895627@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261128T130000
+DTEND;TZID=Europe/Berlin:20261128T150000
+SUMMARY:[U14] TV Blatzheim vs. BC Pesch
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 8 | Spiel-Nr.: 40\nLink: https://www.basketball-bund.net/static/#/spiel/2895627
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852024@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+DTEND;TZID=Europe/Berlin:20261128T170000
+SUMMARY:[U16] TV Blatzheim vs. Kahramanlar-Die Brühler Helden
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 7 | Spiel-Nr.: 39\nLink: https://www.basketball-bund.net/static/#/spiel/2852024
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847321@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261128T150000
+DTEND;TZID=Europe/Berlin:20261128T170000
+SUMMARY:[U12] TV Blatzheim vs. DJK Köln-Nord
+DESCRIPTION:Liga: Bezirksliga 2 VR -weibliche U12- (BeL2VRU12W)\nSpieltag: 7 | Spiel-Nr.: 28\nLink: https://www.basketball-bund.net/static/#/spiel/2847321
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847551@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261128T170000
+DTEND;TZID=Europe/Berlin:20261128T190000
+SUMMARY:[U16] TV  Blatzheim vs. DJK Südwest Köln
+DESCRIPTION:Liga: Bezirksliga 1 VR -weibliche U16- (BeL1VRU16W)\nSpieltag: 7 | Spiel-Nr.: 25\nLink: https://www.basketball-bund.net/static/#/spiel/2847551
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885135@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261129T093000
+DTEND;TZID=Europe/Berlin:20261129T113000
+SUMMARY:[U10] TV Blatzheim vs. BG Aachen/DJK Vaalserquartier
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 8 | Spiel-Nr.: 36\nLink: https://www.basketball-bund.net/static/#/spiel/2885135
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884342@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261129T113000
+DTEND;TZID=Europe/Berlin:20261129T133000
+SUMMARY:[U12] TV Blatzheim vs. RheinStars Köln 3
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 7 | Spiel-Nr.: 41\nLink: https://www.basketball-bund.net/static/#/spiel/2884342
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852253@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261129T133000
+DTEND;TZID=Europe/Berlin:20261129T153000
+SUMMARY:[U18] TV Blatzheim vs. TuS BW Königsdorf
+DESCRIPTION:Liga: Erftliga -männlich U18- (KL-U18M)\nSpieltag: 8 | Spiel-Nr.: 38\nLink: https://www.basketball-bund.net/static/#/spiel/2852253
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855836@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261129T160000
+DTEND;TZID=Europe/Berlin:20261129T180000
+SUMMARY:[Senioren] TV Blatzheim vs. Bonner SV Roleber
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 7 | Spiel-Nr.: 37\nLink: https://www.basketball-bund.net/static/#/spiel/2855836
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854230@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261129T180000
+DTEND;TZID=Europe/Berlin:20261129T200000
+SUMMARY:[Senioren] TV Blatzheim vs. Hürther BC 3
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 7 | Spiel-Nr.: 37\nLink: https://www.basketball-bund.net/static/#/spiel/2854230
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847892@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261205T150000
+DTEND;TZID=Europe/Berlin:20261205T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. Hürther BC 3
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 9 | Spiel-Nr.: 43\nLink: https://www.basketball-bund.net/static/#/spiel/2847892
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847801@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261206T200000
+DTEND;TZID=Europe/Berlin:20261206T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. TuS BW Königsdorf 3
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 9 | Spiel-Nr.: 42\nLink: https://www.basketball-bund.net/static/#/spiel/2847801
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895633@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261212T130000
+DTEND;TZID=Europe/Berlin:20261212T150000
+SUMMARY:[U14] TV Blatzheim vs. TuS Brauweiler
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 10 | Spiel-Nr.: 46\nLink: https://www.basketball-bund.net/static/#/spiel/2895633
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847896@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261212T150000
+DTEND;TZID=Europe/Berlin:20261212T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. Kahramanlar-Die Brühler Helden
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 10 | Spiel-Nr.: 47\nLink: https://www.basketball-bund.net/static/#/spiel/2847896
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884354@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261213T113000
+DTEND;TZID=Europe/Berlin:20261213T133000
+SUMMARY:[U12] TV Blatzheim vs. BG Aachen
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 9 | Spiel-Nr.: 53\nLink: https://www.basketball-bund.net/static/#/spiel/2884354
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855860@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261213T160000
+DTEND;TZID=Europe/Berlin:20261213T180000
+SUMMARY:[Senioren] TV Blatzheim vs. Future Sports Meckenheim 2
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 9 | Spiel-Nr.: 49\nLink: https://www.basketball-bund.net/static/#/spiel/2855860
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854242@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261213T180000
+DTEND;TZID=Europe/Berlin:20261213T200000
+SUMMARY:[Senioren] TV Blatzheim vs. DTV Basketball Köln 2
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 9 | Spiel-Nr.: 49\nLink: https://www.basketball-bund.net/static/#/spiel/2854242
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847807@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261213T200000
+DTEND;TZID=Europe/Berlin:20261213T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. TuS Brauweiler 2
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 10 | Spiel-Nr.: 48\nLink: https://www.basketball-bund.net/static/#/spiel/2847807
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895607@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261216T170000
+DTEND;TZID=Europe/Berlin:20261216T190000
+SUMMARY:[U14] TV Blatzheim vs. Brander TV Aachen
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 4 | Spiel-Nr.: 20\nLink: https://www.basketball-bund.net/static/#/spiel/2895607
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885153@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261220T100000
+DTEND;TZID=Europe/Berlin:20261220T120000
+SUMMARY:[U10] TV Blatzheim vs. TV Neunkirchen
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 11 | Spiel-Nr.: 54\nLink: https://www.basketball-bund.net/static/#/spiel/2885153
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855872@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261220T160000
+DTEND;TZID=Europe/Berlin:20261220T180000
+SUMMARY:[Senioren] TV Blatzheim vs. Aachener TG
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 10 | Spiel-Nr.: 55\nLink: https://www.basketball-bund.net/static/#/spiel/2855872
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854248@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261220T180000
+DTEND;TZID=Europe/Berlin:20261220T200000
+SUMMARY:[Senioren] TV Blatzheim vs. DJK Südwest Köln 2
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 10 | Spiel-Nr.: 55\nLink: https://www.basketball-bund.net/static/#/spiel/2854248
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847766@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20261220T200000
+DTEND;TZID=Europe/Berlin:20261220T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. Hürther BC 5
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 2 | Spiel-Nr.: 7\nLink: https://www.basketball-bund.net/static/#/spiel/2847766
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895645@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270109T130000
+DTEND;TZID=Europe/Berlin:20270109T150000
+SUMMARY:[U14] TV Blatzheim vs. DJK Bad Münstereifel
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 12 | Spiel-Nr.: 58\nLink: https://www.basketball-bund.net/static/#/spiel/2895645
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847908@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270109T150000
+DTEND;TZID=Europe/Berlin:20270109T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. TuS  Brauweiler
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 12 | Spiel-Nr.: 59\nLink: https://www.basketball-bund.net/static/#/spiel/2847908
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884366@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270110T113000
+DTEND;TZID=Europe/Berlin:20270110T133000
+SUMMARY:[U12] TV Blatzheim vs. Brander TV Aachen
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 11 | Spiel-Nr.: 65\nLink: https://www.basketball-bund.net/static/#/spiel/2884366
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852048@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270110T133000
+DTEND;TZID=Europe/Berlin:20270110T153000
+SUMMARY:[U16] TV Blatzheim vs. TuS BW Königsdorf
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 11 | Spiel-Nr.: 63\nLink: https://www.basketball-bund.net/static/#/spiel/2852048
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847819@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270110T200000
+DTEND;TZID=Europe/Berlin:20270110T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. LAV Stommeln
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 12 | Spiel-Nr.: 60\nLink: https://www.basketball-bund.net/static/#/spiel/2847819
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885162@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270117T093000
+DTEND;TZID=Europe/Berlin:20270117T113000
+SUMMARY:[U10] TV Blatzheim vs. Telekom Bonn 2
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 13 | Spiel-Nr.: 63\nLink: https://www.basketball-bund.net/static/#/spiel/2885162
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884373@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270117T113000
+DTEND;TZID=Europe/Berlin:20270117T133000
+SUMMARY:[U12] TV Blatzheim vs. SG Sechtem
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 12 | Spiel-Nr.: 72\nLink: https://www.basketball-bund.net/static/#/spiel/2884373
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852054@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270117T180000
+DTEND;TZID=Europe/Berlin:20270117T200000
+SUMMARY:[U16] TV Blatzheim vs. TS Frechen
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 12 | Spiel-Nr.: 69\nLink: https://www.basketball-bund.net/static/#/spiel/2852054
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895657@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270123T130000
+DTEND;TZID=Europe/Berlin:20270123T150000
+SUMMARY:[U14] TV Blatzheim vs. BG Köln
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 14 | Spiel-Nr.: 70\nLink: https://www.basketball-bund.net/static/#/spiel/2895657
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855917@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270124T160000
+DTEND;TZID=Europe/Berlin:20270124T180000
+SUMMARY:[Senioren] TV Blatzheim vs. BG Bonn 2
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 13 | Spiel-Nr.: 77\nLink: https://www.basketball-bund.net/static/#/spiel/2855917
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854270@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270124T180000
+DTEND;TZID=Europe/Berlin:20270124T200000
+SUMMARY:[Senioren] TV Blatzheim vs. Talents BonnRhöndorf 4
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 13 | Spiel-Nr.: 77\nLink: https://www.basketball-bund.net/static/#/spiel/2854270
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847827@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270124T200000
+DTEND;TZID=Europe/Berlin:20270124T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. TS Frechen 3
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 14 | Spiel-Nr.: 68\nLink: https://www.basketball-bund.net/static/#/spiel/2847827
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847920@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270130T150000
+DTEND;TZID=Europe/Berlin:20270130T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. Sportschule Aslan Wesseling
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 15 | Spiel-Nr.: 71\nLink: https://www.basketball-bund.net/static/#/spiel/2847920
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2885171@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270131T093000
+DTEND;TZID=Europe/Berlin:20270131T113000
+SUMMARY:[U10] TV Blatzheim vs. BG Bonn 2
+DESCRIPTION:Liga: Jugendlandesliga 1 U10 offen (JLL1U10O)\nSpieltag: 15 | Spiel-Nr.: 72\nLink: https://www.basketball-bund.net/static/#/spiel/2885171
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852069@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270131T133000
+DTEND;TZID=Europe/Berlin:20270131T153000
+SUMMARY:[U16] TV Blatzheim vs. Hürther BC
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 14 | Spiel-Nr.: 84\nLink: https://www.basketball-bund.net/static/#/spiel/2852069
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895665@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270213T130000
+DTEND;TZID=Europe/Berlin:20270213T150000
+SUMMARY:[U14] TV Blatzheim vs. BTV Basketball Brühl
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 16 | Spiel-Nr.: 78\nLink: https://www.basketball-bund.net/static/#/spiel/2895665
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884388@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270214T113000
+DTEND;TZID=Europe/Berlin:20270214T133000
+SUMMARY:[U12] TV Blatzheim vs. DJK Bad Münstereifel
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 15 | Spiel-Nr.: 87\nLink: https://www.basketball-bund.net/static/#/spiel/2884388
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852295@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270214T133000
+DTEND;TZID=Europe/Berlin:20270214T153000
+SUMMARY:[U18] TV Blatzheim vs. TuS Brauweiler
+DESCRIPTION:Liga: Erftliga -männlich U18- (KL-U18M)\nSpieltag: 16 | Spiel-Nr.: 80\nLink: https://www.basketball-bund.net/static/#/spiel/2852295
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855935@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270214T160000
+DTEND;TZID=Europe/Berlin:20270214T180000
+SUMMARY:[Senioren] TV Blatzheim vs. Telekom Baskets Bonn 4
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 15 | Spiel-Nr.: 88\nLink: https://www.basketball-bund.net/static/#/spiel/2855935
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854281@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270214T180000
+DTEND;TZID=Europe/Berlin:20270214T200000
+SUMMARY:[Senioren] TV Blatzheim vs. Bonner SV Roleber
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 15 | Spiel-Nr.: 88\nLink: https://www.basketball-bund.net/static/#/spiel/2854281
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847933@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270220T150000
+DTEND;TZID=Europe/Berlin:20270220T170000
+SUMMARY:[U10] TV Blatzheim 2 vs. TuS Brauweiler 2
+DESCRIPTION:Liga: Erftliga -offene U10- (KL-U10O)\nSpieltag: 17 | Spiel-Nr.: 84\nLink: https://www.basketball-bund.net/static/#/spiel/2847933
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852079@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270221T133000
+DTEND;TZID=Europe/Berlin:20270221T153000
+SUMMARY:[U16] TV Blatzheim vs. Pulheimer SC
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 16 | Spiel-Nr.: 94\nLink: https://www.basketball-bund.net/static/#/spiel/2852079
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2847844@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270221T200000
+DTEND;TZID=Europe/Berlin:20270221T220000
+SUMMARY:[Senioren] TV Blatzheim 2 vs. SG Erftstadt 2
+DESCRIPTION:Liga: Erftliga -Herren- (KLH)\nSpieltag: 17 | Spiel-Nr.: 85\nLink: https://www.basketball-bund.net/static/#/spiel/2847844
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2895673@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270227T130000
+DTEND;TZID=Europe/Berlin:20270227T150000
+SUMMARY:[U14] TV Blatzheim vs. 1. BBC Düren "The Wizards" U14
+DESCRIPTION:Liga: Jugendlandesliga 1 U14 offen (JLL1U14O)\nSpieltag: 18 | Spiel-Nr.: 86\nLink: https://www.basketball-bund.net/static/#/spiel/2895673
+LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884398@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270228T113000
+DTEND;TZID=Europe/Berlin:20270228T133000
+SUMMARY:[U12] TV Blatzheim vs. 1. BBC Düren "The Wizards" U12
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 17 | Spiel-Nr.: 97\nLink: https://www.basketball-bund.net/static/#/spiel/2884398
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855946@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270228T160000
+DTEND;TZID=Europe/Berlin:20270228T180000
+SUMMARY:[Senioren] TV Blatzheim vs. Telekom Baskets Bonn 5
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 17 | Spiel-Nr.: 99\nLink: https://www.basketball-bund.net/static/#/spiel/2855946
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854292@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270228T180000
+DTEND;TZID=Europe/Berlin:20270228T200000
+SUMMARY:[Senioren] TV Blatzheim vs. BTV Basketball Brühl
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 17 | Spiel-Nr.: 99\nLink: https://www.basketball-bund.net/static/#/spiel/2854292
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2884414@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270314T113000
+DTEND;TZID=Europe/Berlin:20270314T133000
+SUMMARY:[U12] TV Blatzheim vs. BG Bonn 2
+DESCRIPTION:Liga: Jugendlandesliga 1 U12 offen (JLL1U12O)\nSpieltag: 19 | Spiel-Nr.: 113\nLink: https://www.basketball-bund.net/static/#/spiel/2884414
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855958@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270314T160000
+DTEND;TZID=Europe/Berlin:20270314T180000
+SUMMARY:[Senioren] TV Blatzheim vs. DJK Frankenberg
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 19 | Spiel-Nr.: 110\nLink: https://www.basketball-bund.net/static/#/spiel/2855958
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854303@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270314T180000
+DTEND;TZID=Europe/Berlin:20270314T200000
+SUMMARY:[Senioren] TV Blatzheim vs. DJK Frankenberg 2
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 19 | Spiel-Nr.: 110\nLink: https://www.basketball-bund.net/static/#/spiel/2854303
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2852110@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270418T133000
+DTEND;TZID=Europe/Berlin:20270418T153000
+SUMMARY:[U16] TV Blatzheim vs. Hürther BC 2
+DESCRIPTION:Liga: Erftliga  -männlich U16- (KLU16M)\nSpieltag: 21 | Spiel-Nr.: 125\nLink: https://www.basketball-bund.net/static/#/spiel/2852110
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2855980@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270425T160000
+DTEND;TZID=Europe/Berlin:20270425T180000
+SUMMARY:[Senioren] TV Blatzheim vs. TuS Brauweiler
+DESCRIPTION:Liga: Landesliga 02 Herren (LL02H)\nSpieltag: 22 | Spiel-Nr.: 132\nLink: https://www.basketball-bund.net/static/#/spiel/2855980
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb-match-2854325@basketball-bund.net
+DTSTAMP:20261019T161520Z
+DTSTART;TZID=Europe/Berlin:20270425T180000
+DTEND;TZID=Europe/Berlin:20270425T200000
+SUMMARY:[Senioren] TV Blatzheim vs. TuS Brauweiler
+DESCRIPTION:Liga: Landesliga 1 Damen (LL1D)\nSpieltag: 22 | Spiel-Nr.: 132\nLink: https://www.basketball-bund.net/static/#/spiel/2854325
+LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
+END:VEVENT
+END:VCALENDAR
