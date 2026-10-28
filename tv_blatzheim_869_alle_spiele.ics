@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:dbb-match-2916860@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260906T180000
 DTEND;TZID=Europe/Berlin:20260906T200000
 SUMMARY:[Senioren] Weseler TV vs. TV Blatzheim (77:76)
@@ -34,7 +34,7 @@ LOCATION:Sporthalle Gesamtschule Am Lauerhaas\, Kirchturmstraße 3\, 46485 Wesel
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847762@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260916T203000
 DTEND;TZID=Europe/Berlin:20260916T223000
 SUMMARY:[Senioren] TuS Brauweiler 2 vs. TV Blatzheim 2 (76:33)
@@ -43,7 +43,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847295@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260919T143000
 DTEND;TZID=Europe/Berlin:20260919T163000
 SUMMARY:[U12] TV Blatzheim vs. DTV Basketball Köln 2 (93:42)
@@ -52,7 +52,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847412@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260919T163000
 DTEND;TZID=Europe/Berlin:20260919T183000
 SUMMARY:[U14] TV Blatzheim vs. DJK SW Köln (82:28)
@@ -61,7 +61,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2851988@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260919T170000
 DTEND;TZID=Europe/Berlin:20260919T190000
 SUMMARY:[U16] TS Frechen vs. TV Blatzheim (38:100)
@@ -70,7 +70,7 @@ LOCATION:3fach Sporthalle  der Realschule\, Kuckental\, 50226 Frechen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884307@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T100000
 DTEND;TZID=Europe/Berlin:20260920T120000
 SUMMARY:[U12] SG Sechtem vs. TV Blatzheim (74:90)
@@ -79,7 +79,7 @@ LOCATION:Sporthalle der Europaschule Bornheim  (Drittelfeld)\, Goethestraße 1\,
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847851@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T100000
 DTEND;TZID=Europe/Berlin:20260920T120000
 SUMMARY:[U10] Kahramanlar-Die Brühler Helden vs. TV Blatzheim 2 (53:67)
@@ -88,7 +88,7 @@ LOCATION:SH der Astrid-Lindgren-Schule\, Rodderweg 93\, 50321 Brühl
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895588@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T120000
 DTEND;TZID=Europe/Berlin:20260920T140000
 SUMMARY:[U14] TuS Brauweiler vs. TV Blatzheim (89:76)
@@ -97,7 +97,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852218@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T123000
 DTEND;TZID=Europe/Berlin:20260920T143000
 SUMMARY:[U18] TV Blatzheim vs. SG Erftstadt (54:74)
@@ -106,7 +106,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847529@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T140000
 DTEND;TZID=Europe/Berlin:20260920T160000
 SUMMARY:[U16] BG Köln vs. TV  Blatzheim (46:27)
@@ -115,7 +115,7 @@ LOCATION:Gebrüder-Grimm-Schule\, Sürther Hauptstraße 149\, 50999 Köln - Sür
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885100@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T143000
 DTEND;TZID=Europe/Berlin:20260920T163000
 SUMMARY:[U10] TV Blatzheim vs. Future Sports Meckenheim (36:65)
@@ -124,7 +124,7 @@ LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straß
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855764@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T163000
 DTEND;TZID=Europe/Berlin:20260920T183000
 SUMMARY:[Senioren] TV Blatzheim vs. Sieglarer TV (54:57)
@@ -133,7 +133,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854194@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260920T183000
 DTEND;TZID=Europe/Berlin:20260920T203000
 SUMMARY:[Senioren] TV Blatzheim vs. SG Bergische Löwen 2 (32:111)
@@ -142,7 +142,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855784@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260924T203000
 DTEND;TZID=Europe/Berlin:20260924T223000
 SUMMARY:[Senioren] BG Bonn 2 vs. TV Blatzheim (83:67)
@@ -151,7 +151,7 @@ LOCATION:SH des Nikolaus Cusanus Gymnasiums\, Gotenstraße 50\, 53175 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895597@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260926T130000
 DTEND;TZID=Europe/Berlin:20260926T150000
 SUMMARY:[U14] TV Blatzheim vs. TuS Zülpich (56:82)
@@ -160,7 +160,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847418@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260926T140000
 DTEND;TZID=Europe/Berlin:20260926T160000
 SUMMARY:[U14] SG Bergische Löwen 3 vs. TV Blatzheim (18:84)
@@ -169,7 +169,7 @@ LOCATION:Albertus-Magnus-Gymnasium Halle 2\, Kaule 3-15 (E: über Schlossfeldweg
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847857@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260926T150000
 DTEND;TZID=Europe/Berlin:20260926T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. Pulheimer SC (25:104)
@@ -178,7 +178,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847531@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 DTEND;TZID=Europe/Berlin:20260926T190000
 SUMMARY:[U16] TV  Blatzheim vs. Pulheimer SC (27:28)
@@ -187,7 +187,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854204@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260926T180000
 DTEND;TZID=Europe/Berlin:20260926T200000
 SUMMARY:[Senioren] Talents BonnRhöndorf 4 vs. TV Blatzheim (67:29)
@@ -196,7 +196,7 @@ LOCATION:Sh der GS Bonns Fünfte\, Eduard-Otto-Straße 9\, 53129 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847298@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260927T100000
 DTEND;TZID=Europe/Berlin:20260927T120000
 SUMMARY:[U12] WINGS Leverkusen 2 vs. TV Blatzheim (8:102)
@@ -205,7 +205,7 @@ LOCATION:Werner-Heisenberg-Gymnasium\, Werner-Heisenberg-Straße 1\, 51381 Lever
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885108@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260927T100000
 DTEND;TZID=Europe/Berlin:20260927T120000
 SUMMARY:[U10] TV Neunkirchen vs. TV Blatzheim (27:84)
@@ -214,7 +214,7 @@ LOCATION:Sporthalle der Grundschule Neunkirchen\, Rathausstraße 3\, 53819 Neunk
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884312@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260927T113000
 DTEND;TZID=Europe/Berlin:20260927T133000
 SUMMARY:[U12] TV Blatzheim vs. Hürther BC 2 (106:38)
@@ -223,7 +223,7 @@ LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straß
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847598@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20260927T160000
 DTEND;TZID=Europe/Berlin:20260927T180000
 SUMMARY:[U18] 1. BBC Düren "The Wizards" vs. TV Blatzheim (a.K.) (30:40)
@@ -232,7 +232,7 @@ LOCATION:Schulzentrum des Kreises Düren\, Rudolf-Diesel-Straße 19\, 52351 Dür
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847774@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261001T203000
 DTEND;TZID=Europe/Berlin:20261001T223000
 SUMMARY:[Senioren] LAV Stommeln vs. TV Blatzheim 2 (104:49)
@@ -241,7 +241,7 @@ LOCATION:SH der Christinaschule Stommeln\, Christinastraße 3\, 50259 Pulheim ¿
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847863@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261003T100000
 DTEND;TZID=Europe/Berlin:20261003T120000
 SUMMARY:[U10] TuS  Brauweiler vs. TV Blatzheim 2 (114:16)
@@ -250,7 +250,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847420@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261003T130000
 DTEND;TZID=Europe/Berlin:20261003T150000
 SUMMARY:[U14] TV Blatzheim vs. Hürther BC 2 (86:39)
@@ -259,7 +259,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852003@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261003T140000
 DTEND;TZID=Europe/Berlin:20261003T160000
 SUMMARY:[U16] Hürther BC vs. TV Blatzheim (70:47)
@@ -268,7 +268,7 @@ LOCATION:Gymnasium Bonnstraße\, Bonnstraße 59\, 50354 Hürth
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895600@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261003T140000
 DTEND;TZID=Europe/Berlin:20261003T160000
 SUMMARY:[U14] DJK Bad Münstereifel vs. TV Blatzheim (117:46)
@@ -277,7 +277,7 @@ LOCATION:Willi-Maurer-Halle (Hauptfeld)\, Erftstraße 26\, 53879 Euskirchen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847600@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261003T150000
 DTEND;TZID=Europe/Berlin:20261003T170000
 SUMMARY:[U18] TV Blatzheim (a.K.) vs. TuS Wegberg (47:19)
@@ -286,7 +286,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847304@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261003T150000
 DTEND;TZID=Europe/Berlin:20261003T170000
 SUMMARY:[U12] TV Blatzheim vs. RheinStars Köln 3 (54:30)
@@ -295,7 +295,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885110@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261004T100000
 DTEND;TZID=Europe/Berlin:20261004T120000
 SUMMARY:[U10] TV Blatzheim vs. Bonner SV Roleber (40:70)
@@ -304,7 +304,7 @@ LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straß
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884318@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261004T120000
 DTEND;TZID=Europe/Berlin:20261004T140000
 SUMMARY:[U12] TV Blatzheim vs. Telekom Bonn 3 (107:48)
@@ -313,7 +313,7 @@ LOCATION:Neue Halle am Gymnasium Kerpen (Drittelfeld)\, Philipp-Schneider-Straß
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852228@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261004T140000
 DTEND;TZID=Europe/Berlin:20261004T160000
 SUMMARY:[U18] TV Blatzheim vs. SSK Kerpen (AK) (51:45)
@@ -322,7 +322,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847538@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261004T140000
 DTEND;TZID=Europe/Berlin:20261004T160000
 SUMMARY:[U16] Kahramanlar-Die Brühler Helden vs. TV  Blatzheim (68:27)
@@ -331,7 +331,7 @@ LOCATION:Dreifachhalle der berufsbildenden Schulen\, Bonnstraße 200\, 50321 Br�
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855788@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261004T163000
 DTEND;TZID=Europe/Berlin:20261004T183000
 SUMMARY:[Senioren] TV Blatzheim vs. Dragons Rhöndorf 3 (70:92)
@@ -340,7 +340,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855806@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261008T203000
 DTEND;TZID=Europe/Berlin:20261008T223000
 SUMMARY:[Senioren] Telekom Baskets Bonn 4 vs. TV Blatzheim (89:64)
@@ -349,7 +349,7 @@ LOCATION:Baskets Ausbildungszentrum (Feld 1)\, Basketsring 1\, 53125 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847309@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T120000
 SUMMARY:[U12] SG Bergische Löwen 3 vs. TV Blatzheim (14:165)
@@ -358,7 +358,7 @@ LOCATION:Albertus-Magnus-Gymnasium Halle 3 (Querfeld)\, Kaule 3-15 (E: über Sch
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884322@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261010T110000
 DTEND;TZID=Europe/Berlin:20261010T130000
 SUMMARY:[U12] DJK Bad Münstereifel vs. TV Blatzheim (56:146)
@@ -367,7 +367,7 @@ LOCATION:Heinz-Gerlach-Mehrzweckhalle\, Goldenes Tal\, 53902 Bad Münstereifel
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854215@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261010T183000
 DTEND;TZID=Europe/Berlin:20261010T203000
 SUMMARY:[Senioren] Bonner SV Roleber vs. TV Blatzheim (61:48)
@@ -376,7 +376,7 @@ LOCATION:TH der Grundschule Heideweg\, Heideweg\, 53229 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847425@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261011T120000
 DTEND;TZID=Europe/Berlin:20261011T140000
 SUMMARY:[U14] Pulheimer SC vs. TV Blatzheim (33:44)
@@ -385,7 +385,7 @@ LOCATION:SH der Realschule\, Buschweg\, 50259 Pulheim
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885117@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261011T120000
 DTEND;TZID=Europe/Berlin:20261011T140000
 SUMMARY:[U10] Telekom Bonn 2 vs. TV Blatzheim (78:63)
@@ -394,7 +394,7 @@ LOCATION:Baskets Ausbildungszentrum (Feld 2)\, Basketsring 1\, 53125 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847867@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261011T130000
 DTEND;TZID=Europe/Berlin:20261011T150000
 SUMMARY:[U10] TV Blatzheim 2 vs. BTV Basketball Brühl (9:101)
@@ -403,7 +403,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847776@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261011T200000
 DTEND;TZID=Europe/Berlin:20261011T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. TuS BW Königsdorf 4 (87:43)
@@ -412,7 +412,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847313@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261107T110000
 DTEND;TZID=Europe/Berlin:20261107T130000
 SUMMARY:[U12] TV Blatzheim vs. Hürther BC 2
@@ -421,7 +421,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847428@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261107T130000
 DTEND;TZID=Europe/Berlin:20261107T150000
 SUMMARY:[U14] TV Blatzheim vs. DJK Löwe Köln
@@ -430,7 +430,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847544@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261107T140000
 DTEND;TZID=Europe/Berlin:20261107T160000
 SUMMARY:[U16] TuS Chlodwig Zülpich vs. TV  Blatzheim
@@ -439,7 +439,7 @@ LOCATION:Städt. SH Blayer Str. (Dreifachhalle)\, Blayer Straße\, 53909 Zülpic
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885120@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261108T100000
 DTEND;TZID=Europe/Berlin:20261108T120000
 SUMMARY:[U10] TV Blatzheim vs. Brander Turnverein 1883 Aachen e.V.
@@ -448,7 +448,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895612@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261108T120000
 DTEND;TZID=Europe/Berlin:20261108T140000
 SUMMARY:[U14] BG Köln vs. TV Blatzheim
@@ -457,7 +457,7 @@ LOCATION:TH der Anne-Frank-Schule\, Adlerstraße 13\, 50997 Köln - Rondorf
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884330@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261108T120000
 DTEND;TZID=Europe/Berlin:20261108T140000
 SUMMARY:[U12] TV Blatzheim vs. BC Pesch
@@ -466,7 +466,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847782@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261108T160000
 DTEND;TZID=Europe/Berlin:20261108T180000
 SUMMARY:[Senioren] TS Frechen 3 vs. TV Blatzheim 2
@@ -475,7 +475,7 @@ LOCATION:3fach Sporthalle  der Realschule\, Kuckental\, 50226 Frechen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855812@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261108T160000
 DTEND;TZID=Europe/Berlin:20261108T180000
 SUMMARY:[Senioren] TV Blatzheim vs. TuS Zülpich
@@ -484,7 +484,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854218@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261108T180000
 DTEND;TZID=Europe/Berlin:20261108T200000
 SUMMARY:[Senioren] TV Blatzheim vs. TuS Zülpich
@@ -493,7 +493,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855828@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261112T203000
 DTEND;TZID=Europe/Berlin:20261112T223000
 SUMMARY:[Senioren] Telekom Baskets Bonn 5 vs. TV Blatzheim
@@ -502,7 +502,7 @@ LOCATION:Baskets Ausbildungszentrum (Feld 1)\, Basketsring 1\, 53125 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847875@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261114T100000
 DTEND;TZID=Europe/Berlin:20261114T120000
 SUMMARY:[U10] Sportschule Aslan Wesseling vs. TV Blatzheim 2
@@ -511,7 +511,7 @@ LOCATION:5-fach-TH Berzdorfer Straße\, Berzdorfer Straße\, 50389 Wesseling
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847547@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261114T120000
 DTEND;TZID=Europe/Berlin:20261114T140000
 SUMMARY:[U16] DJK Frankenberg Aachen vs. TV  Blatzheim
@@ -520,7 +520,7 @@ LOCATION:Sporthalle Bayernallee (Käthe-Kollwitz-Schule)\, Bayernallee 6\, 52066
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885126@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261114T120000
 DTEND;TZID=Europe/Berlin:20261114T140000
 SUMMARY:[U10] BG Bonn 2 vs. TV Blatzheim
@@ -529,7 +529,7 @@ LOCATION:SH der Gesamtschule (Drittelfeld)\, Elisabeth-Selbert-Allee 50\, 53175 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847432@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261114T130000
 DTEND;TZID=Europe/Berlin:20261114T150000
 SUMMARY:[U14] TV Blatzheim vs. DJK Köln-Nord a.K.
@@ -538,7 +538,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895617@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261114T130000
 DTEND;TZID=Europe/Berlin:20261114T150000
 SUMMARY:[U14] TV Blatzheim vs. Telekom Bonn 3
@@ -547,7 +547,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847612@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T170000
 SUMMARY:[U18] TV Blatzheim (a.K.) vs. DJK Frankenberg Aachen
@@ -556,7 +556,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884332@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261115T120000
 DTEND;TZID=Europe/Berlin:20261115T140000
 SUMMARY:[U12] 1. BBC Düren "The Wizards" U12 vs. TV Blatzheim
@@ -565,7 +565,7 @@ LOCATION:Schulzentrum des Kreises Düren\, Rudolf-Diesel-Straße 19\, 52351 Dür
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847315@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261115T130000
 DTEND;TZID=Europe/Berlin:20261115T150000
 SUMMARY:[U12] Pulheimer SC vs. TV Blatzheim
@@ -574,7 +574,7 @@ LOCATION:SH der Realschule\, Buschweg\, 50259 Pulheim
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852243@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261115T133000
 DTEND;TZID=Europe/Berlin:20261115T153000
 SUMMARY:[U18] TV Blatzheim vs. Kahramanlar-Die Brühler Helden
@@ -583,7 +583,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852018@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261115T160000
 DTEND;TZID=Europe/Berlin:20261115T180000
 SUMMARY:[U16] TV Blatzheim vs. BTV Basketball Brühl 2
@@ -592,7 +592,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854226@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261115T170000
 DTEND;TZID=Europe/Berlin:20261115T190000
 SUMMARY:[Senioren] BTV Basketball Brühl vs. TV Blatzheim
@@ -601,7 +601,7 @@ LOCATION:BTV - Sportzentrum (Hauptfeld)\, von Wied Straße 2\, 50321 Brühl
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847786@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261115T200000
 DTEND;TZID=Europe/Berlin:20261115T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. BTV Basketball Brühl 4
@@ -610,7 +610,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847791@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 DTEND;TZID=Europe/Berlin:20261118T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. BTV Basketball Brühl 3
@@ -619,7 +619,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895620@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261121T100000
 DTEND;TZID=Europe/Berlin:20261121T120000
 SUMMARY:[U14] BTV Basketball Brühl vs. TV Blatzheim
@@ -628,7 +628,7 @@ LOCATION:Dreifachhalle der berufsbildenden Schulen\, Bonnstraße 200\, 50321 Br�
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2851994@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261121T110000
 DTEND;TZID=Europe/Berlin:20261121T130000
 SUMMARY:[U16] TV Blatzheim vs. SG Erftstadt
@@ -637,7 +637,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885130@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261121T130000
 DTEND;TZID=Europe/Berlin:20261121T150000
 SUMMARY:[U10] TV Blatzheim vs. Dragons Rhöndorf 2
@@ -646,7 +646,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847882@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261121T150000
 DTEND;TZID=Europe/Berlin:20261121T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. Hürther BC 2
@@ -655,7 +655,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852250@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261121T180000
 DTEND;TZID=Europe/Berlin:20261121T200000
 SUMMARY:[U18] TuS Brauweiler vs. TV Blatzheim
@@ -664,7 +664,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847799@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
 DTEND;TZID=Europe/Berlin:20261128T140000
 SUMMARY:[Senioren] SG Erftstadt 2 vs. TV Blatzheim 2
@@ -673,7 +673,7 @@ LOCATION:Theodor-Heuss-Sporthalle\, Amselweg / Am Rotbach\, 50374 Erftstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847888@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
 DTEND;TZID=Europe/Berlin:20261128T140000
 SUMMARY:[U10] TuS Brauweiler 2 vs. TV Blatzheim 2
@@ -682,7 +682,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895627@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261128T130000
 DTEND;TZID=Europe/Berlin:20261128T150000
 SUMMARY:[U14] TV Blatzheim vs. BC Pesch
@@ -691,7 +691,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852024@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261128T150000
 DTEND;TZID=Europe/Berlin:20261128T170000
 SUMMARY:[U16] TV Blatzheim vs. Kahramanlar-Die Brühler Helden
@@ -700,7 +700,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847321@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261128T150000
 DTEND;TZID=Europe/Berlin:20261128T170000
 SUMMARY:[U12] TV Blatzheim vs. DJK Köln-Nord
@@ -709,7 +709,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847551@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261128T170000
 DTEND;TZID=Europe/Berlin:20261128T190000
 SUMMARY:[U16] TV  Blatzheim vs. DJK Südwest Köln
@@ -718,7 +718,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885135@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261129T093000
 DTEND;TZID=Europe/Berlin:20261129T113000
 SUMMARY:[U10] TV Blatzheim vs. BG Aachen/DJK Vaalserquartier
@@ -727,7 +727,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884342@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261129T113000
 DTEND;TZID=Europe/Berlin:20261129T133000
 SUMMARY:[U12] TV Blatzheim vs. RheinStars Köln 3
@@ -736,7 +736,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852253@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261129T133000
 DTEND;TZID=Europe/Berlin:20261129T153000
 SUMMARY:[U18] TV Blatzheim vs. TuS BW Königsdorf
@@ -745,7 +745,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855836@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261129T160000
 DTEND;TZID=Europe/Berlin:20261129T180000
 SUMMARY:[Senioren] TV Blatzheim vs. Bonner SV Roleber
@@ -754,7 +754,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854230@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261129T180000
 DTEND;TZID=Europe/Berlin:20261129T200000
 SUMMARY:[Senioren] TV Blatzheim vs. Hürther BC 3
@@ -763,7 +763,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884348@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261205T120000
 DTEND;TZID=Europe/Berlin:20261205T140000
 SUMMARY:[U12] BG Bonn 2 vs. TV Blatzheim
@@ -772,7 +772,7 @@ LOCATION:SH der Gesamtschule (Drittelfeld)\, Elisabeth-Selbert-Allee 50\, 53175 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847892@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261205T150000
 DTEND;TZID=Europe/Berlin:20261205T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. Hürther BC 3
@@ -781,7 +781,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854237@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261205T160000
 DTEND;TZID=Europe/Berlin:20261205T180000
 SUMMARY:[Senioren] DJK Frankenberg 2 vs. TV Blatzheim
@@ -790,7 +790,7 @@ LOCATION:Sporthalle Bayernallee (Käthe-Kollwitz-Schule)\, Bayernallee 6\, 52066
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855850@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261205T180000
 DTEND;TZID=Europe/Berlin:20261205T200000
 SUMMARY:[Senioren] DJK Frankenberg vs. TV Blatzheim
@@ -799,7 +799,7 @@ LOCATION:Sporthalle Bayernallee (Käthe-Kollwitz-Schule)\, Bayernallee 6\, 52066
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852013@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261206T120000
 DTEND;TZID=Europe/Berlin:20261206T140000
 SUMMARY:[U16] Pulheimer SC vs. TV Blatzheim
@@ -808,7 +808,7 @@ LOCATION:SH der Realschule\, Buschweg\, 50259 Pulheim
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895628@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261206T140000
 DTEND;TZID=Europe/Berlin:20261206T160000
 SUMMARY:[U14] 1. BBC Düren "The Wizards" U14 vs. TV Blatzheim
@@ -817,7 +817,7 @@ LOCATION:Schulzentrum des Kreises Düren\, Rudolf-Diesel-Straße 19\, 52351 Dür
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847801@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261206T200000
 DTEND;TZID=Europe/Berlin:20261206T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. TuS BW Königsdorf 3
@@ -826,7 +826,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895633@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261212T130000
 DTEND;TZID=Europe/Berlin:20261212T150000
 SUMMARY:[U14] TV Blatzheim vs. TuS Brauweiler
@@ -835,7 +835,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847896@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261212T150000
 DTEND;TZID=Europe/Berlin:20261212T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. Kahramanlar-Die Brühler Helden
@@ -844,7 +844,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884354@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261213T113000
 DTEND;TZID=Europe/Berlin:20261213T133000
 SUMMARY:[U12] TV Blatzheim vs. BG Aachen
@@ -853,7 +853,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852263@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261213T140000
 DTEND;TZID=Europe/Berlin:20261213T160000
 SUMMARY:[U18] SG Erftstadt vs. TV Blatzheim
@@ -862,7 +862,7 @@ LOCATION:Theodor-Heuss-Sporthalle\, Amselweg / Am Rotbach\, 50374 Erftstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855860@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261213T160000
 DTEND;TZID=Europe/Berlin:20261213T180000
 SUMMARY:[Senioren] TV Blatzheim vs. Future Sports Meckenheim 2
@@ -871,7 +871,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854242@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261213T180000
 DTEND;TZID=Europe/Berlin:20261213T200000
 SUMMARY:[Senioren] TV Blatzheim vs. DTV Basketball Köln 2
@@ -880,7 +880,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847807@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261213T200000
 DTEND;TZID=Europe/Berlin:20261213T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. TuS Brauweiler 2
@@ -889,7 +889,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895607@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261216T170000
 DTEND;TZID=Europe/Berlin:20261216T190000
 SUMMARY:[U14] TV Blatzheim vs. Brander TV Aachen
@@ -898,7 +898,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847811@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261216T203000
 DTEND;TZID=Europe/Berlin:20261216T223000
 SUMMARY:[Senioren] Hürther BC 5 vs. TV Blatzheim 2
@@ -907,7 +907,7 @@ LOCATION:Clementinen-Schule\, Am Schlangenpfad\, 50354 Hürth
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852044@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261218T183000
 DTEND;TZID=Europe/Berlin:20261218T203000
 SUMMARY:[U16] Hürther BC 2 vs. TV Blatzheim
@@ -916,7 +916,7 @@ LOCATION:Clementinen-Schule\, Am Schlangenpfad\, 50354 Hürth
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895642@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261220T100000
 DTEND;TZID=Europe/Berlin:20261220T120000
 SUMMARY:[U14] TuS Zülpich vs. TV Blatzheim
@@ -925,7 +925,7 @@ LOCATION:Städt. SH Blayer Str. (Dreifachhalle)\, Blayer Straße\, 53909 Zülpic
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885153@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261220T100000
 DTEND;TZID=Europe/Berlin:20261220T120000
 SUMMARY:[U10] TV Blatzheim vs. TV Neunkirchen
@@ -934,7 +934,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847902@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261220T100000
 DTEND;TZID=Europe/Berlin:20261220T120000
 SUMMARY:[U10] Pulheimer SC vs. TV Blatzheim 2
@@ -943,7 +943,7 @@ LOCATION:SH der Realschule\, Buschweg\, 50259 Pulheim
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855872@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261220T160000
 DTEND;TZID=Europe/Berlin:20261220T180000
 SUMMARY:[Senioren] TV Blatzheim vs. Aachener TG
@@ -952,7 +952,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854248@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261220T180000
 DTEND;TZID=Europe/Berlin:20261220T200000
 SUMMARY:[Senioren] TV Blatzheim vs. DJK Südwest Köln 2
@@ -961,7 +961,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847766@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20261220T200000
 DTEND;TZID=Europe/Berlin:20261220T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. Hürther BC 5
@@ -970,7 +970,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852273@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270109T123000
 DTEND;TZID=Europe/Berlin:20270109T143000
 SUMMARY:[U18] SSK Kerpen (AK) vs. TV Blatzheim
@@ -979,7 +979,7 @@ LOCATION:3-fach-SH des Schulzentrums Kerpen (neue Halle)\, Philipp-Schneider-Str
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895645@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270109T130000
 DTEND;TZID=Europe/Berlin:20270109T150000
 SUMMARY:[U14] TV Blatzheim vs. DJK Bad Münstereifel
@@ -988,7 +988,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885155@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270109T140000
 DTEND;TZID=Europe/Berlin:20270109T160000
 SUMMARY:[U10] Bonner SV Roleber vs. TV Blatzheim
@@ -997,7 +997,7 @@ LOCATION:TH der Grundschule Heideweg\, Heideweg\, 53229 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847908@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270109T150000
 DTEND;TZID=Europe/Berlin:20270109T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. TuS  Brauweiler
@@ -1006,7 +1006,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884366@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270110T113000
 DTEND;TZID=Europe/Berlin:20270110T133000
 SUMMARY:[U12] TV Blatzheim vs. Brander TV Aachen
@@ -1015,7 +1015,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852048@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270110T133000
 DTEND;TZID=Europe/Berlin:20270110T153000
 SUMMARY:[U16] TV Blatzheim vs. TuS BW Königsdorf
@@ -1024,7 +1024,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854259@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270110T160000
 DTEND;TZID=Europe/Berlin:20270110T180000
 SUMMARY:[Senioren] TuS Brauweiler vs. TV Blatzheim
@@ -1033,7 +1033,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855894@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270110T180000
 DTEND;TZID=Europe/Berlin:20270110T200000
 SUMMARY:[Senioren] TuS Brauweiler vs. TV Blatzheim
@@ -1042,7 +1042,7 @@ LOCATION:Dreifachhalle Brauweiler (neue Halle)\, Kastanienallee\, 50259 Pulheim 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847819@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270110T200000
 DTEND;TZID=Europe/Berlin:20270110T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. LAV Stommeln
@@ -1051,7 +1051,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847821@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270116T180000
 DTEND;TZID=Europe/Berlin:20270116T200000
 SUMMARY:[Senioren] TuS BW Königsdorf 4 vs. TV Blatzheim 2
@@ -1060,7 +1060,7 @@ LOCATION:Mehrzweckhalle Königsdorf\, Pfeilstraße\, 50226 Frechen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854260@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270116T200000
 DTEND;TZID=Europe/Berlin:20270116T220000
 SUMMARY:[Senioren] SG Bergische Löwen 2 vs. TV Blatzheim
@@ -1069,7 +1069,7 @@ LOCATION:SH des Albertus-Magnus-Gymnasiums\, Kaule 3-15 (E: über Schlossfeldweg
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885162@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270117T093000
 DTEND;TZID=Europe/Berlin:20270117T113000
 SUMMARY:[U10] TV Blatzheim vs. Telekom Bonn 2
@@ -1078,7 +1078,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895652@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270117T100000
 DTEND;TZID=Europe/Berlin:20270117T120000
 SUMMARY:[U14] Brander TV Aachen vs. TV Blatzheim
@@ -1087,7 +1087,7 @@ LOCATION:3-Fach Sporthalle der Gesamtschule Brand\, Rombachstraße\, 52078 Aache
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847912@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270117T110000
 DTEND;TZID=Europe/Berlin:20270117T130000
 SUMMARY:[U10] BTV Basketball Brühl vs. TV Blatzheim 2
@@ -1096,7 +1096,7 @@ LOCATION:BTV -  Sportzentrum (Halle 1)\, von Wied Strasse 2\, 50321 Brühl
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884373@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270117T113000
 DTEND;TZID=Europe/Berlin:20270117T133000
 SUMMARY:[U12] TV Blatzheim vs. SG Sechtem
@@ -1105,7 +1105,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855896@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270117T160000
 DTEND;TZID=Europe/Berlin:20270117T180000
 SUMMARY:[Senioren] Sieglarer TV vs. TV Blatzheim
@@ -1114,7 +1114,7 @@ LOCATION:3fach Sporthalle Schulzentrum Sieglar\, Edith-Stein-Straße\, 53844 Tro
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852054@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270117T180000
 DTEND;TZID=Europe/Berlin:20270117T200000
 SUMMARY:[U16] TV Blatzheim vs. TS Frechen
@@ -1123,7 +1123,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884378@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270123T100000
 DTEND;TZID=Europe/Berlin:20270123T120000
 SUMMARY:[U12] Hürther BC 2 vs. TV Blatzheim
@@ -1132,7 +1132,7 @@ LOCATION:Gymnasium Bonnstraße (Drittelfeld)\, Bonnstraße 59\, 50334 Hürth
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885165@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270123T123000
 DTEND;TZID=Europe/Berlin:20270123T143000
 SUMMARY:[U10] Brander Turnverein 1883 Aachen e.V. vs. TV Blatzheim
@@ -1141,7 +1141,7 @@ LOCATION:Einfachturnhalle Brander Feld\, Rombachstraße\, 52078 Aachen - Brand
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895657@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270123T130000
 DTEND;TZID=Europe/Berlin:20270123T150000
 SUMMARY:[U14] TV Blatzheim vs. BG Köln
@@ -1150,7 +1150,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852060@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270124T130000
 DTEND;TZID=Europe/Berlin:20270124T150000
 SUMMARY:[U16] SG Erftstadt vs. TV Blatzheim
@@ -1159,7 +1159,7 @@ LOCATION:Theodor-Heuss-Sporthalle\, Amselweg / Am Rotbach\, 50374 Erftstadt
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855917@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270124T160000
 DTEND;TZID=Europe/Berlin:20270124T180000
 SUMMARY:[Senioren] TV Blatzheim vs. BG Bonn 2
@@ -1168,7 +1168,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854270@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270124T180000
 DTEND;TZID=Europe/Berlin:20270124T200000
 SUMMARY:[Senioren] TV Blatzheim vs. Talents BonnRhöndorf 4
@@ -1177,7 +1177,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847827@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270124T200000
 DTEND;TZID=Europe/Berlin:20270124T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. TS Frechen 3
@@ -1186,7 +1186,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847831@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270128T203000
 DTEND;TZID=Europe/Berlin:20270128T223000
 SUMMARY:[Senioren] BTV Basketball Brühl 4 vs. TV Blatzheim 2
@@ -1195,7 +1195,7 @@ LOCATION:BTV - Sportzentrum (Halle 2)\, von Wied Straße 2\, 50321 Brühl
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855921@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270129T203000
 DTEND;TZID=Europe/Berlin:20270129T223000
 SUMMARY:[Senioren] Dragons Rhöndorf 3 vs. TV Blatzheim
@@ -1204,7 +1204,7 @@ LOCATION:Siebengebirgsgymnasium  (Halle 2)\, Im Krahfuß\, 53604 Bad Honnef
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852288@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270130T140000
 DTEND;TZID=Europe/Berlin:20270130T160000
 SUMMARY:[U18] Kahramanlar-Die Brühler Helden vs. TV Blatzheim
@@ -1213,7 +1213,7 @@ LOCATION:Dreifachhalle der berufsbildenden Schulen\, Bonnstraße 200\, 50321 Br�
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884384@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270130T140000
 DTEND;TZID=Europe/Berlin:20270130T160000
 SUMMARY:[U12] Telekom Bonn 3 vs. TV Blatzheim
@@ -1222,7 +1222,7 @@ LOCATION:Baskets Ausbildungszentrum (Feld 2)\, Basketsring 1\, 53125 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847920@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270130T150000
 DTEND;TZID=Europe/Berlin:20270130T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. Sportschule Aslan Wesseling
@@ -1231,7 +1231,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885171@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270131T093000
 DTEND;TZID=Europe/Berlin:20270131T113000
 SUMMARY:[U10] TV Blatzheim vs. BG Bonn 2
@@ -1240,7 +1240,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895662@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270131T120000
 DTEND;TZID=Europe/Berlin:20270131T140000
 SUMMARY:[U14] Telekom Bonn 3 vs. TV Blatzheim
@@ -1249,7 +1249,7 @@ LOCATION:Baskets Ausbildungszentrum (Feld 1)\, Basketsring 1\, 53125 Bonn
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852069@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270131T133000
 DTEND;TZID=Europe/Berlin:20270131T153000
 SUMMARY:[U16] TV Blatzheim vs. Hürther BC
@@ -1258,7 +1258,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847836@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270201T203000
 DTEND;TZID=Europe/Berlin:20270201T223000
 SUMMARY:[Senioren] BTV Basketball Brühl 3 vs. TV Blatzheim 2
@@ -1267,7 +1267,7 @@ LOCATION:BTV - Sportzentrum (Halle 2)\, von Wied Straße 2\, 50321 Brühl
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885175@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270213T100000
 DTEND;TZID=Europe/Berlin:20270213T120000
 SUMMARY:[U10] Dragons Rhöndorf 2 vs. TV Blatzheim
@@ -1276,7 +1276,7 @@ LOCATION:Gymnasium Hagerhof - Halle II\, Menzenberg 13\, 53604 Bad Honnef
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847927@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270213T100000
 DTEND;TZID=Europe/Berlin:20270213T120000
 SUMMARY:[U10] Hürther BC 2 vs. TV Blatzheim 2
@@ -1285,7 +1285,7 @@ LOCATION:Gymnasium Bonnstraße (Drittelfeld)\, Bonnstraße 59\, 50334 Hürth
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895665@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270213T130000
 DTEND;TZID=Europe/Berlin:20270213T150000
 SUMMARY:[U14] TV Blatzheim vs. BTV Basketball Brühl
@@ -1294,7 +1294,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884388@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270214T113000
 DTEND;TZID=Europe/Berlin:20270214T133000
 SUMMARY:[U12] TV Blatzheim vs. DJK Bad Münstereifel
@@ -1303,7 +1303,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852295@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270214T133000
 DTEND;TZID=Europe/Berlin:20270214T153000
 SUMMARY:[U18] TV Blatzheim vs. TuS Brauweiler
@@ -1312,7 +1312,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855935@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270214T160000
 DTEND;TZID=Europe/Berlin:20270214T180000
 SUMMARY:[Senioren] TV Blatzheim vs. Telekom Baskets Bonn 4
@@ -1321,7 +1321,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854281@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270214T180000
 DTEND;TZID=Europe/Berlin:20270214T200000
 SUMMARY:[Senioren] TV Blatzheim vs. Bonner SV Roleber
@@ -1330,7 +1330,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847933@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270220T150000
 DTEND;TZID=Europe/Berlin:20270220T170000
 SUMMARY:[U10] TV Blatzheim 2 vs. TuS Brauweiler 2
@@ -1339,7 +1339,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852298@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270220T160000
 DTEND;TZID=Europe/Berlin:20270220T180000
 SUMMARY:[U18] TuS BW Königsdorf vs. TV Blatzheim
@@ -1348,7 +1348,7 @@ LOCATION:Mehrzweckhalle Königsdorf\, Pfeilstraße\, 50226 Frechen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854284@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270220T180000
 DTEND;TZID=Europe/Berlin:20270220T200000
 SUMMARY:[Senioren] TuS Zülpich vs. TV Blatzheim
@@ -1357,7 +1357,7 @@ LOCATION:Städt. SH Blayer Str. (Dreifachhalle)\, Blayer Straße\, 53909 Zülpic
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855938@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270220T200000
 DTEND;TZID=Europe/Berlin:20270220T220000
 SUMMARY:[Senioren] TuS Zülpich vs. TV Blatzheim
@@ -1366,7 +1366,7 @@ LOCATION:Städt. SH Blayer Str. (Dreifachhalle)\, Blayer Straße\, 53909 Zülpic
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884396@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270221T100000
 DTEND;TZID=Europe/Berlin:20270221T120000
 SUMMARY:[U12] BC Pesch vs. TV Blatzheim
@@ -1375,7 +1375,7 @@ LOCATION:SH des Schulzentrums Pesch Feld 2\, Montessoristraße / Schulstraße\, 
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2885180@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270221T120000
 DTEND;TZID=Europe/Berlin:20270221T140000
 SUMMARY:[U10] BG Aachen/DJK Vaalserquartier vs. TV Blatzheim
@@ -1384,7 +1384,7 @@ LOCATION:Schulzentrum Laurensberg (Halle 1 - Querfeld)\, Hander Weg 89 (E: Vetsc
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852079@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270221T133000
 DTEND;TZID=Europe/Berlin:20270221T153000
 SUMMARY:[U16] TV Blatzheim vs. Pulheimer SC
@@ -1393,7 +1393,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895672@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270221T143000
 DTEND;TZID=Europe/Berlin:20270221T163000
 SUMMARY:[U14] BC Pesch vs. TV Blatzheim
@@ -1402,7 +1402,7 @@ LOCATION:SH des Schulzentrums Pesch\, Montessoristraße / Schulstraße\, 50767 K
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847844@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270221T200000
 DTEND;TZID=Europe/Berlin:20270221T220000
 SUMMARY:[Senioren] TV Blatzheim 2 vs. SG Erftstadt 2
@@ -1411,7 +1411,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847937@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270226T170000
 DTEND;TZID=Europe/Berlin:20270226T190000
 SUMMARY:[U10] Hürther BC 3 vs. TV Blatzheim 2
@@ -1420,7 +1420,7 @@ LOCATION:SH der Gesamtschule Hürth (Drittelfeld)\, Sudentenstraße 35\, 50354 H
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852084@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270227T120000
 DTEND;TZID=Europe/Berlin:20270227T140000
 SUMMARY:[U16] BTV Basketball Brühl 2 vs. TV Blatzheim
@@ -1429,7 +1429,7 @@ LOCATION:SH der Astrid-Lindgren-Schule\, Rodderweg 93\, 50321 Brühl
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2895673@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270227T130000
 DTEND;TZID=Europe/Berlin:20270227T150000
 SUMMARY:[U14] TV Blatzheim vs. 1. BBC Düren "The Wizards" U14
@@ -1438,7 +1438,7 @@ LOCATION:Mehrzweck-SH Blatzheim\, Kunibertusstraße 51\, 50171 Kerpen - Blatzhei
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2847846@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270227T160000
 DTEND;TZID=Europe/Berlin:20270227T180000
 SUMMARY:[Senioren] TuS BW Königsdorf 3 vs. TV Blatzheim 2
@@ -1447,7 +1447,7 @@ LOCATION:Mehrzweckhalle Königsdorf\, Pfeilstraße\, 50226 Frechen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884398@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270228T113000
 DTEND;TZID=Europe/Berlin:20270228T133000
 SUMMARY:[U12] TV Blatzheim vs. 1. BBC Düren "The Wizards" U12
@@ -1456,7 +1456,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855946@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270228T160000
 DTEND;TZID=Europe/Berlin:20270228T180000
 SUMMARY:[Senioren] TV Blatzheim vs. Telekom Baskets Bonn 5
@@ -1465,7 +1465,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854292@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270228T180000
 DTEND;TZID=Europe/Berlin:20270228T200000
 SUMMARY:[Senioren] TV Blatzheim vs. BTV Basketball Brühl
@@ -1474,7 +1474,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852090@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270306T120000
 DTEND;TZID=Europe/Berlin:20270306T140000
 SUMMARY:[U16] Kahramanlar-Die Brühler Helden vs. TV Blatzheim
@@ -1483,7 +1483,7 @@ LOCATION:Dreifachhalle der berufsbildenden Schulen\, Bonnstraße 200\, 50321 Br�
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884408@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270306T140000
 DTEND;TZID=Europe/Berlin:20270306T160000
 SUMMARY:[U12] RheinStars Köln 3 vs. TV Blatzheim
@@ -1492,7 +1492,7 @@ LOCATION:Sporthalle Apostelgymnasium\, Biggestraße 2\, 50931 Köln - Lindenthal
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854296@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270306T160000
 DTEND;TZID=Europe/Berlin:20270306T180000
 SUMMARY:[Senioren] Hürther BC 3 vs. TV Blatzheim
@@ -1501,7 +1501,7 @@ LOCATION:Gymnasium Bonnstraße\, Bonnstraße 59\, 50354 Hürth
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855951@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270307T180000
 DTEND;TZID=Europe/Berlin:20270307T200000
 SUMMARY:[Senioren] Bonner SV Roleber vs. TV Blatzheim
@@ -1510,7 +1510,7 @@ LOCATION:Turnhalle Ringstraße\, Ringstraße 73\, 53225 Bonn - Beuel
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884414@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270314T113000
 DTEND;TZID=Europe/Berlin:20270314T133000
 SUMMARY:[U12] TV Blatzheim vs. BG Bonn 2
@@ -1519,7 +1519,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855958@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270314T160000
 DTEND;TZID=Europe/Berlin:20270314T180000
 SUMMARY:[Senioren] TV Blatzheim vs. DJK Frankenberg
@@ -1528,7 +1528,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854303@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270314T180000
 DTEND;TZID=Europe/Berlin:20270314T200000
 SUMMARY:[Senioren] TV Blatzheim vs. DJK Frankenberg 2
@@ -1537,7 +1537,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854308@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270410T160000
 DTEND;TZID=Europe/Berlin:20270410T180000
 SUMMARY:[Senioren] DTV Basketball Köln 2 vs. TV Blatzheim
@@ -1546,7 +1546,7 @@ LOCATION:SH der Fachhochschule Deutz\, Reitweg\, 50679 Köln - Deutz
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855963@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270410T160000
 DTEND;TZID=Europe/Berlin:20270410T180000
 SUMMARY:[Senioren] Future Sports Meckenheim 2 vs. TV Blatzheim
@@ -1555,7 +1555,7 @@ LOCATION:Wettkampfhalle des Schulzentrums Meckenheim\, Königsberger Straße\, 5
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884420@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270411T120000
 DTEND;TZID=Europe/Berlin:20270411T140000
 SUMMARY:[U12] BG Aachen vs. TV Blatzheim
@@ -1564,7 +1564,7 @@ LOCATION:Schulzentrum Laurensberg (Halle 1 - Querfeld)\, Hander Weg 89 (E: Vetsc
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854314@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270417T160000
 DTEND;TZID=Europe/Berlin:20270417T180000
 SUMMARY:[Senioren] DJK Südwest Köln 2 vs. TV Blatzheim
@@ -1573,7 +1573,7 @@ LOCATION:Sporthalle (Zentralfeld) Hildegard-von-Bingen-Gymnasium \, Leybergstra�
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852110@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270418T133000
 DTEND;TZID=Europe/Berlin:20270418T153000
 SUMMARY:[U16] TV Blatzheim vs. Hürther BC 2
@@ -1582,7 +1582,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855969@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270418T180000
 DTEND;TZID=Europe/Berlin:20270418T200000
 SUMMARY:[Senioren] Aachener TG vs. TV Blatzheim
@@ -1591,7 +1591,7 @@ LOCATION:Sporthalle Bayernallee (Käthe-Kollwitz-Schule)\, Bayernallee 6\, 52066
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2852114@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270424T140000
 DTEND;TZID=Europe/Berlin:20270424T160000
 SUMMARY:[U16] TuS BW Königsdorf vs. TV Blatzheim
@@ -1600,7 +1600,7 @@ LOCATION:SH Rotdornweg (Nähe Gymnasium)\, Rotdornweg\, 50226 Frechen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2884432@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270425T100000
 DTEND;TZID=Europe/Berlin:20270425T120000
 SUMMARY:[U12] Brander TV Aachen vs. TV Blatzheim
@@ -1609,7 +1609,7 @@ LOCATION:Einfachturnhalle Brander Feld\, Rombachstraße\, 52078 Aachen - Brand
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2855980@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270425T160000
 DTEND;TZID=Europe/Berlin:20270425T180000
 SUMMARY:[Senioren] TV Blatzheim vs. TuS Brauweiler
@@ -1618,7 +1618,7 @@ LOCATION:Neue 3-fach-Halle am Schulzentrum\, Bruchhöhe 27\, 50170 Kerpen
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb-match-2854325@basketball-bund.net
-DTSTAMP:20261027T101120Z
+DTSTAMP:20261028T105727Z
 DTSTART;TZID=Europe/Berlin:20270425T180000
 DTEND;TZID=Europe/Berlin:20270425T200000
 SUMMARY:[Senioren] TV Blatzheim vs. TuS Brauweiler
